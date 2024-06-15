@@ -1,0 +1,6 @@
+[submodule "include/minilibx-linux"]
+	path = include/minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux.git
+[submodule "include/libft"]
+	path = include/libft
+	url = git@github.com:romoreno-dev/42-libft-printf-gnl.git
