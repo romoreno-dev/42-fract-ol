@@ -19,6 +19,9 @@ OBJ := obj/obj
 
 # Libraries directories
 LIBFT_ROUTE := $(LIB)/libft
+# Si se quiere descomentar la ruta de la libreria minilibx en MAC_OS
+# debe descomprimirse primero la minilibx_opengl
+# Para ello, ejecutar previamente el comando tar -xvf include/minilibx_opengl
 # MINILIBX_ROUTE := $(LIB)/minilibx_opengl_20191021
 MINILIBX_ROUTE_LINUX := $(LIB)/minilibx-linux
 
