@@ -31,22 +31,19 @@ Simulador didáctico de fractales en el plano complejo
 - FRACTAL DE JULIA: Introduzca "./fractol julia [Re] [Im]"
 ------------------------------------------------------------
 
-
-------------------------------------------------------------
 **CONTROLES DE LA SIMULACIÓN (Inicialmente configurados para MacOS):**   
 
-Teclas Up-Left-Right-Down W-A-D-S: Recorre el fractal  
-Scroll del ratón: Zoom in y Zoom out  
-Tecla +: Aumentar el número de iteraciones de comprobación (El rendimiento puede verse afectado según el hardware)  
-Tecla -: Disminuir el número de iteraciones de comprobación  
-Tecla R: Reinicia al fractal a las condiciones iniciales  
-Tecla 1: Cambia la gama de colores  
-Tecla J: (Solo en fractal de Julia): Fractales artísticos  
-Tecla ESC: Finaliza la simulación del fractal  
-------------------------------------------------------------
-
+- Teclas Up-Left-Right-Down W-A-D-S: Recorre el fractal  
+- Scroll del ratón: Zoom in y Zoom out  
+- Tecla +: Aumentar el número de iteraciones de comprobación (El rendimiento puede verse afectado según el hardware)  
+- Tecla -: Disminuir el número de iteraciones de comprobación  
+- Tecla R: Reinicia al fractal a las condiciones iniciales  
+- Tecla 1: Cambia la gama de colores  
+- Tecla J: (Solo en fractal de Julia): Fractales artísticos  
+- Tecla ESC: Finaliza la simulación del fractal  
 
 ------------------------------------------------------------
+
 **CONCEPTOS:**
 - FRACTAL:Figura formada por patrones que se repiten.
   Usos: Compresión multimedia, modelado, criptografía, arte.
